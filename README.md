@@ -1,5 +1,3 @@
-ت:
-
 
 # WXOS Project
 
